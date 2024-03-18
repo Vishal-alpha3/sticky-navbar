@@ -1,0 +1,2 @@
+# Set the line ending style for SVG files to be normalized to LF
+*.svg text eol=lf
